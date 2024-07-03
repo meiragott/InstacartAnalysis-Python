@@ -8,7 +8,7 @@ Data-driven analysis using Python for the real company Instacart to uncover sale
 Instacart, an online grocery store that operates through an app, wants to gain deeper insights into its sales patterns to enhance its marketing strategies. As an analyst, my task is to perform an initial data and exploratory analysis of their data to derive actionable insights and suggest strategies for better customer segmentation.
 
 ### Disclaimer
-***Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for this project.***
+***Instacart is a real company that’s made its data available online. However, the contents of this project brief have been fabricated for this project.***
 
 ## Objective
 The objective of this project is to use Python to perform data analysis on Instacart's sales data. The aim is to uncover patterns and trends in customer behavior to inform targeted marketing strategies. The analysis will focus on identifying busy periods, spending habits, popular product categories, and customer segmentation based on various demographic factors.
@@ -46,10 +46,14 @@ The data used is open-source data sets from Instacart along with a customer data
 
 ## Visualizations
 To effectively communicate the results of the analysis, I created various visualizations  (***View the final report in the repository folder `05 Sent to Client` in the file `Instacart-final_report_MGottlieb.xlsx`.***):
-1. **Order Frequency by Day and Hour**: Bar charts showing the busiest times for orders.
-2. **Spending Patterns by Time of Day**: Line charts illustrating spending behaviors.
-3. **Product Popularity by Category**: Bar charts depicting the frequency of orders by product category.
-4. **Customer Segmentation**: Scatter plots and histograms to analyze customer demographics and behaviors.
+- **Order Frequency by Day and Hour**
+- **Spending Patterns by Time of Day**
+- **Customer Segmentation by Customer Profile Variable: Age Group, Dependents, and Income**
+- **Customer Profiles Across Regions and Geographic Areas**
+- **Customer Behavior by Customer Profile with Average Days Since Prior Order**
+- **Top Five Departments by Region and Customer Profile**
+- **Average Spending by Customer Profile Across Regions**
+- **Top Five Products by Region and Customer Profile**
 
 These visualizations will help Instacart stakeholders understand the data insights at a glance and make informed decisions for their marketing and sales strategies.
 
