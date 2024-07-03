@@ -58,11 +58,12 @@ To effectively communicate the results of the analysis, I created various visual
 These visualizations will help Instacart stakeholders understand the data insights at a glance and make informed decisions for their marketing and sales strategies.
 
 ## Folders
-- **data/**: Contains raw and cleaned data sets.
-- **notebooks/**: Jupyter notebooks used for data analysis and visualization.
-- **scripts/**: Python scripts for data processing and analysis.
-- **reports/**: Final reports and presentation files.
-- **visualizations/**: Generated visualizations and plots.
+- **01 Project Management:** Project brief
+- **02 Data:** Separated into two subfolders Original Data. These contain the original data frames and Prepared Data contains the data frames after they have been cleaned and prepared for analysis. (*Data files not uploaded to GitHub due to size limitations.*)
+- **03 Scripts:** Jupyter notebooks containing coding for the analysis.
+- **04 Analysis:** The Visualizations subfolder contains the visualizations used for developing and explaining insights.
+- **05 Sent to Client:** The final report is presented in an Excel document.
+
 
 ## Resources
 - **Instacart Data Dictionary**: Documentation of data set variables and structure.
